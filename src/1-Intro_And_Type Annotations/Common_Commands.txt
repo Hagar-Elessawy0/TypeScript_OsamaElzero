@@ -1,0 +1,10 @@
+tsc -h ====> Shows all tsc commands
+
+tsc file1.ts file2.ts ====> compiles the specified files.
+
+tsc --init ====> Creates a tsconfig.json.
+
+tsc -w file.ts ====> Compiles the specified file in watch mode (compile atuo).
+
+
+

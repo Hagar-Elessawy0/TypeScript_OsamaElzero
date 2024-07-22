@@ -1,0 +1,31 @@
+What is TypeScript:
+- Is a strongly typed programming language that bulids on JavaScript.
+- Developed and maintained by microsoft.
+- IS JavaScript with types.
+- Add features to JavaScript without changing it.
+
+-----------------------------------------------------------------------------
+
+Why we need TypeScript?
+- Detect error without running the code (static type checking).
+- Analyze the code as you type.
+- Save some unit tests as the Error show while writing.
+- Every JS file is valid TS file.
+- Will help you when you write React, Vue, Angular apps.
+- Give you the missing features in JS like Interfaces, Generics, Decorators.
+
+-----------------------------------------------------------------------------
+
+How TypeScript works ?
+- TypeScript compiler compile TS code into JS code , This called transpilation. 
+- How about the new features? Workaround.
+
+-----------------------------------------------------------------------------
+
+What you need to know?
+- JavaScript concepts :
+	* Variables
+	* Arrays
+	* Objects
+	* Functions
+	* Conditions

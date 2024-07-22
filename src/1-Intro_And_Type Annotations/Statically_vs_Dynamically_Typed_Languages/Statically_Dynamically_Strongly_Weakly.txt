@@ -1,0 +1,23 @@
+Statically Typed vs. Dynamically Typed
+
+Statically Typed:
+	-نوع المتغير يتم تحديده أثناء وقت الترجمة (Compilation Time). 
+	-بمجرد أن يتم تحديد نوع المتغير، لا يمكن تغييره لاحقًا. 
+	Ex: C، C#،  C++، Java، Rust.
+
+Dynamically Typed: 
+	-نوع المتغير يتم تحديده أثناء وقت التشغيل(Run Time).
+	-يمكن تغيير نوع المتغير أثناء التنفيذ. 
+	Ex: Python، JavaScript، Ruby، PHP.
+
+---------------------------------------------------------------------------
+
+Strongly Typed vs. Weakly Typed
+
+Strongly Typed:
+	-اللغة لا تسمح بالتحويل الضمني بين الأنواع المختلفة. يجب أن يتم التحويل بين الأنواع بشكل صريح.
+	Ex: Python، Ruby، C#، Java، Rust.
+
+Weakly Typed: 
+	-اللغة تسمح بالتحويل الضمني بين الأنواع المختلفة. يمكن تحويل القيم من نوع إلى آخر دون الحاجة إلى إشارة صريحة. 
+	Ex: JavaScript، PHP، C.
