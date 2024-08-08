@@ -13,7 +13,7 @@ article = [12, "Title Two", false];     //? update
 console.log(article);   // [11, "Title One", true]
 
 //? array destructuring
-const [id, title, published] = article;
-console.log(id);
-console.log(title);
+const [id1, title1, published] = article;
+console.log(id1);
+console.log(title1);
 console.log(published);

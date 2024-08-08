@@ -25,9 +25,9 @@ type C = {
     five: boolean
 }
 //? Intersection
-type mix = A & C;
+type mix1 = A & C;
 
-function getActions2(btns: mix) {
+function getActions2(btns: mix1) {
 console.log(`Hello ${btns.one}`);
 console.log(`Hello ${btns.two}`);
 console.log(`Hello ${btns.three}`);
